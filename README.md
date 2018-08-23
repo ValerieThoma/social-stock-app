@@ -10,4 +10,6 @@ Code along Ruby exercise
   outsource creation of our models/migrations/tests  
   `rails generate devise:install` 
 
+- stock_quote
+uses finance Yahoo API
 
